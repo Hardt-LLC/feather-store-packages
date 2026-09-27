@@ -8,4 +8,6 @@ Every file here is a byte-for-byte copy of an asset from the matching [GitHub re
 | --- | --- | --- |
 | 2026.9.4 | [FeatherTaskManager-2026.9.4-Setup-x64.exe](2026.9.4/FeatherTaskManager-2026.9.4-Setup-x64.exe) | see [SHA256SUMS.txt](2026.9.4/SHA256SUMS.txt) |
 
+[store-assets/](store-assets) holds the Store listing screenshots and logos for each version. They are renders of the [design prototype](https://github.com/Hardt-LLC/FeatherTaskManager/blob/main/design/reference/feather-task-manager.html) with simulated data, not captures of a real PC.
+
 To download Feather yourself, use the [latest release](https://github.com/Hardt-LLC/FeatherTaskManager/releases/latest). Source code, license and security policy live in the main repository.
