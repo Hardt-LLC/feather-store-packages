@@ -1,0 +1,1 @@
+6bde5df9841b29d7c1a3534625c9f02b9a9345a0bea7f41aa64f5bd85c5b30bc *FeatherTaskManager-2026.9.6-Setup-x64.exe
